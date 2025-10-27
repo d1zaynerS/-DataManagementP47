@@ -1,8 +1,0 @@
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
-C:\Users\sergd\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe.config
