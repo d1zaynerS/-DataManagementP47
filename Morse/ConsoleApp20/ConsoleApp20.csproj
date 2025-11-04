@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C870A2F5-5E49-4FAD-8809-1262FEC573E6}</ProjectGuid>
+    <ProjectGuid>{A340C922-6F9D-42F6-8439-D6377D55F09A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp19</RootNamespace>
-    <AssemblyName>ConsoleApp19</AssemblyName>
+    <RootNamespace>ConsoleApp20</RootNamespace>
+    <AssemblyName>ConsoleApp20</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
