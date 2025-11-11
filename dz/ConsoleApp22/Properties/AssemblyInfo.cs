@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("ConsoleApp20")]
+[assembly: AssemblyTitle("ConsoleApp22")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApp20")]
+[assembly: AssemblyProduct("ConsoleApp22")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("a340c922-6f9d-42f6-8439-d6377d55f09a")]
+[assembly: Guid("665d0e6f-f86a-4043-88d1-2c484af08edf")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

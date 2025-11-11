@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A340C922-6F9D-42F6-8439-D6377D55F09A}</ProjectGuid>
+    <ProjectGuid>{665D0E6F-F86A-4043-88D1-2C484AF08EDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp20</RootNamespace>
-    <AssemblyName>ConsoleApp20</AssemblyName>
+    <RootNamespace>ConsoleApp22</RootNamespace>
+    <AssemblyName>ConsoleApp22</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
