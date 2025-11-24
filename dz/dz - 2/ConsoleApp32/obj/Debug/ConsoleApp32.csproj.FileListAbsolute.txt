@@ -1,0 +1,8 @@
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.pdb
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.AssemblyReference.cache
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.pdb
+C:\Users\sergd\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.exe.config
