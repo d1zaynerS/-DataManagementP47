@@ -1,0 +1,11 @@
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\NLog.dll
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\NLog.xml
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.AssemblyReference.cache
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleA.CAA841F6.Up2Date
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.pdb
+C:\Users\sergd\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.exe.config

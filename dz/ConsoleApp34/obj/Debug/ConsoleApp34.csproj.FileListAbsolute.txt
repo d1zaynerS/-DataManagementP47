@@ -1,7 +1,0 @@
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.AssemblyReference.cache
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.exe
-C:\Users\sergd\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
