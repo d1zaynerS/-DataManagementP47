@@ -1,0 +1,7 @@
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+C:\Users\sergd\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.pdb
