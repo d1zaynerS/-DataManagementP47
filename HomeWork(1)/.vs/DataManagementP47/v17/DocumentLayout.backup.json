@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|HomeWork(1).csproj|c:\\users\\sergd\\source\\repos\\homework(1)\\ado\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|HomeWork(1).csproj|solutionrelative:ado\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|DataManagementP47.csproj|c:\\users\\sergd\\source\\repos\\homework(1)\\datamanagementp47.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|DataManagementP47.csproj|solutionrelative:datamanagementp47.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|HomeWork(1).csproj|c:\\users\\sergd\\source\\repos\\homework(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694E9178-D36A-4D29-B398-3127B168CD42}|HomeWork(1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManagementP47.csproj",
+              "DocumentMoniker": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\DataManagementP47.csproj",
+              "RelativeDocumentMoniker": "DataManagementP47.csproj",
+              "ToolTip": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\DataManagementP47.csproj*",
+              "RelativeToolTip": "DataManagementP47.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T08:31:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ado.cs",
+              "DocumentMoniker": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\Ado\\Ado.cs",
+              "RelativeDocumentMoniker": "Ado\\Ado.cs",
+              "ToolTip": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\Ado\\Ado.cs*",
+              "RelativeToolTip": "Ado\\Ado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:22:18.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sergd\\source\\repos\\HomeWork(1)\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:08:50.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
